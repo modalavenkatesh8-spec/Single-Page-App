@@ -1,2 +1,2 @@
 # Single-Page-App
-My Information
+My Personal Information
